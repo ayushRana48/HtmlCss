@@ -12,8 +12,12 @@ A one-liner introduction about yourself
 Links to your LinkedIn or GitHub accounts to the right of the card
 Customize the styling of each element using CSS.
 
+<img width="306" alt="Screenshot 2023-08-31 at 2 05 28 PM" src="https://github.com/ayushRana48/HtmlCss/assets/46659703/c99d997a-ac4e-4a4e-896c-9a0a1d9d453e">
+
 ## Spicy
 Add an animation to the business card using CSS. When a user hovers over the business card, the border of the card should change. You have creative freedom in deciding how the border changes.
+
+<img width="271" alt="Screenshot 2023-08-31 at 2 05 34 PM" src="https://github.com/ayushRana48/HtmlCss/assets/46659703/4a1cebb3-17f7-463b-8e1a-8fdb858fc9f0">
 
 ## Dangerous
 Make the business card responsive for different screen sizes, specifically focusing on mobile devices like iPhones. Implement the following:
